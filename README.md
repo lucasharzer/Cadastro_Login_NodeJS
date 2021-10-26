@@ -17,10 +17,10 @@ API em NodeJS com banco de dados MongoDB aplicada no postman. Com as rotas '/usu
 
 # Comandos
 
-- Cloanar o projeto:
+- Clonar o projeto:
 
 ```bash
-git clone 
+git clone https://github.com/lucasharzer/cadastro_login_nodejs.git
 ```
 
 - Preparar as dependências:
