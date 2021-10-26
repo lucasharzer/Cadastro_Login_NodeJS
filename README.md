@@ -24,6 +24,7 @@ API em NodeJS com banco de dados MongoDB aplicada no postman. Com as rotas '/usu
 ```bash
 git clone https://github.com/lucasharzer/cadastro_login_nodejs.git
 ```
+cd para entrar na pasta.
 
 - Preparar as dependências:
 
